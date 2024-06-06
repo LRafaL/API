@@ -6,3 +6,4 @@
 
 [Testing SOAP services](https://github.com/LRafaL/API/blob/main/SOAP-%20Country%20Info%20Service.postman_collection.json)
 
+[Test cases for testing methods (GET, POST, PUT, PATCH, DELETE) in the Qase](https://github.com/LRafaL/API/blob/main/Test%20cases%20for%20testing%20methods%20(GET%2C%20POST%2C%20PUT%2C%20PATCH%2C%20DELETE)%20in%20the%20Qase.pdf)
